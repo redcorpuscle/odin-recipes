@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(176, 242, 145);
+    color: rgb(26, 23, 23);
+    font-size: 30px;
+    font-family: Georgia, "Times New Roman", sans-serif;
+    text-align: center;
+
+}
+
+.content-photo {
+    height: auto;
+    width: 500px;
+}
